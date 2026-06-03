@@ -132,7 +132,14 @@
       "module": "Config",
       "addedBy": "automation-bot-session",
       "timestamp": "2026-06-03T02:19:09.459Z"
+    },
+    {
+      "id": "1780453152529",
+      "instruction": "First 9 Events test cases live in tests/events/events-listing-first-9.spec.ts sourced from Excel sheet 'Events Re-modified'. Helpers in tests/helpers/events.ts.",
+      "module": "Project",
+      "addedBy": "automation-bot-session",
+      "timestamp": "2026-06-03T02:19:12.529Z"
     }
   ],
-  "lastUpdated": "2026-06-03T02:19:09.459Z"
+  "lastUpdated": "2026-06-03T02:19:12.529Z"
 }
