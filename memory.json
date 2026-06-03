@@ -104,7 +104,14 @@
       "module": "Events Listing",
       "addedBy": "automation-bot-session",
       "timestamp": "2026-06-03T02:18:58.834Z"
+    },
+    {
+      "id": "1780453141613",
+      "instruction": "Registration type API filter uses type__in query param. Values: Open=1, Moderated=2, Invite only=3.",
+      "module": "Events Listing",
+      "addedBy": "automation-bot-session",
+      "timestamp": "2026-06-03T02:19:01.613Z"
     }
   ],
-  "lastUpdated": "2026-06-03T02:18:58.834Z"
+  "lastUpdated": "2026-06-03T02:19:01.613Z"
 }
