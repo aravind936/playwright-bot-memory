@@ -47,8 +47,16 @@
       "addedBy": "automation-bot-session",
       "timestamp": "2026-06-03T02:18:39.440Z",
       "upvotes": 1
+    },
+    {
+      "id": "1780453122424",
+      "correction": "Do not press Escape to close tag dropdown — it dismisses the entire filters modal. Click elsewhere in modal instead.",
+      "context": "Events listing — filters modal tags",
+      "addedBy": "automation-bot-session",
+      "timestamp": "2026-06-03T02:18:42.424Z",
+      "upvotes": 1
     }
   ],
   "productKnowledge": [],
-  "lastUpdated": "2026-06-03T02:18:39.440Z"
+  "lastUpdated": "2026-06-03T02:18:42.424Z"
 }
