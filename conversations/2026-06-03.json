@@ -11,7 +11,12 @@
       "role": "user",
       "content": "save all the previous chat to memory",
       "timestamp": "2026-06-03T02:18:22.774Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Events automation session (TC_EV_001–TC_EV_009) — full chat summary:\n\nPROJECT SETUP:\n- Playwright automation bot with MCP approach (bot.ts ignored).\n- Codebase cloned under codebase/frontend and codebase/backend for context.\n- Test cases provided as Excel (.xlsx) in test-cases/ folder.\n- Excel file: test-cases/RegressionTest Cases - All Modules.xlsx, sheet \"Events Re-modified\".\n- Shared memory repo: aravind936/playwright-bot-memory (GITHUB_REPO must NOT have leading slash).\n\nENVIRONMENT:\n- Base URL: https://dev-09.almabase-beta.com/sadmin (changed from dev-08 per user request).\n- Login credentials: admin3 / admin3.\n- Config in config.json; playwright.config.ts uses 240s test timeout, 30s action timeout, 15s expect timeout, slowMo 500.\n\nTESTS CREATED:\n- tests/events/events-listing-first-9.spec.ts — serial suite for TC_EV_001 through TC_EV_009.\n- tests/helpers/events.ts — shared navigation, filter, table, and editor helpers.\n\nTEST CASE STATUS:\n- TC_EV_001: Edit old event (not in recents), verify in recently updated bar, restore name — PASSING.\n- TC_EV_002: Status filter buttons (All, Accepting registrations, Draft, Completed, Archived) — PASSING.\n- TC_EV_003: Apply Open/Moderated/Invite only filters one-by-one; open first event; verify registration type in editor — PASSING.\n- TC_EV_004–009: Clear filters, archive, unarchive, duplicate, delete, recents on create — written, not all verified in full suite.\n\nKEY USER REFINEMENTS:\n- TC_EV_001 must use an event NOT already in the recents bar.\n- TC_EV_003: select registration type filters one at a time; after each filter, open any one event and verify its registration type matches in the event editor (not just API/table check).\n- User asked to save all chat context to shared memory.\n\nOTHER WORK IN SESSION:\n- Fixed missing @playwright/test and @anthropic-ai/sdk dependencies.\n- Created login, forms create/submit automation scripts.\n- Set up test-cases folder, codebase context loading, excel-driven generation.\n- Fixed memory.ts GitHubApiError so failed writes no longer report false success.\n- Fixed GITHUB_REPO env var (remove leading slash for API calls).",
+      "timestamp": "2026-06-03T02:18:24.046Z"
     }
   ],
-  "lastUpdated": "2026-06-03T02:18:22.774Z"
+  "lastUpdated": "2026-06-03T02:18:24.046Z"
 }
