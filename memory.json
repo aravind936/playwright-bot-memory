@@ -23,8 +23,16 @@
       "addedBy": "automation-bot-session",
       "timestamp": "2026-06-03T02:18:30.772Z",
       "upvotes": 1
+    },
+    {
+      "id": "1780453113617",
+      "correction": "Filters modal selector is .events-listing-filter:visible; apply button is .apply-filters-btn (not role dialog or 'Apply filters' button name in all builds).",
+      "context": "Events listing — filters modal",
+      "addedBy": "automation-bot-session",
+      "timestamp": "2026-06-03T02:18:33.617Z",
+      "upvotes": 1
     }
   ],
   "productKnowledge": [],
-  "lastUpdated": "2026-06-03T02:18:30.772Z"
+  "lastUpdated": "2026-06-03T02:18:33.617Z"
 }
