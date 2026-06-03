@@ -79,8 +79,16 @@
       "addedBy": "automation-bot-session",
       "timestamp": "2026-06-03T02:18:50.626Z",
       "upvotes": 1
+    },
+    {
+      "id": "1780453133340",
+      "correction": "TC_EV_001: pick an event from the table that is NOT in the recently updated bar, edit its name, save, verify it appears in recents, then restore the original name.",
+      "context": "Events listing — TC_EV_001 recently updated",
+      "addedBy": "automation-bot-session",
+      "timestamp": "2026-06-03T02:18:53.340Z",
+      "upvotes": 1
     }
   ],
   "productKnowledge": [],
-  "lastUpdated": "2026-06-03T02:18:50.626Z"
+  "lastUpdated": "2026-06-03T02:18:53.340Z"
 }
