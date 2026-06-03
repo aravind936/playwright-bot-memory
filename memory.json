@@ -87,8 +87,16 @@
       "addedBy": "automation-bot-session",
       "timestamp": "2026-06-03T02:18:53.340Z",
       "upvotes": 1
+    },
+    {
+      "id": "1780453136034",
+      "correction": "GITHUB_REPO env var must be owner/repo without leading slash (e.g. aravind936/playwright-bot-memory) or GitHub API returns 404.",
+      "context": "Shared memory — memory.ts GitHub config",
+      "addedBy": "automation-bot-session",
+      "timestamp": "2026-06-03T02:18:56.034Z",
+      "upvotes": 1
     }
   ],
   "productKnowledge": [],
-  "lastUpdated": "2026-06-03T02:18:53.340Z"
+  "lastUpdated": "2026-06-03T02:18:56.034Z"
 }
