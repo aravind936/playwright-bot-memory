@@ -1,0 +1,12 @@
+{
+  "date": "2026-06-03",
+  "sessionId": "2026-06-03-session",
+  "messages": [
+    {
+      "role": "user",
+      "content": "test message",
+      "timestamp": "2026-06-03T02:09:50.137Z"
+    }
+  ],
+  "lastUpdated": "2026-06-03T02:09:50.137Z"
+}
