@@ -15,8 +15,16 @@
       "addedBy": "automation-bot-session",
       "timestamp": "2026-06-03T02:18:28.084Z",
       "upvotes": 1
+    },
+    {
+      "id": "1780453110772",
+      "correction": "Scope all events table interactions to .events-listing-table to avoid strict mode violations from other page links.",
+      "context": "Events listing — general selectors",
+      "addedBy": "automation-bot-session",
+      "timestamp": "2026-06-03T02:18:30.772Z",
+      "upvotes": 1
     }
   ],
   "productKnowledge": [],
-  "lastUpdated": "2026-06-03T02:18:28.084Z"
+  "lastUpdated": "2026-06-03T02:18:30.772Z"
 }
