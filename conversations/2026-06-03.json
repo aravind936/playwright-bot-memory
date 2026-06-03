@@ -51,7 +51,12 @@
       "role": "assistant",
       "content": "Correction saved: \"Do not press Escape to close tag dropdown — it dismisses the entire filters modal. Click elsewhere in modal instead.\" (context: Events listing — filters modal tags)",
       "timestamp": "2026-06-03T02:18:43.952Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Correction saved: \"Row Actions menu: hover the Actions text in the row, then click the item in .events-listing-action-dropdown.\" (context: Events listing — archive/unarchive/duplicate/delete)",
+      "timestamp": "2026-06-03T02:18:46.800Z"
     }
   ],
-  "lastUpdated": "2026-06-03T02:18:43.952Z"
+  "lastUpdated": "2026-06-03T02:18:46.800Z"
 }
