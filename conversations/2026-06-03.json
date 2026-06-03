@@ -36,7 +36,12 @@
       "role": "assistant",
       "content": "Correction saved: \"Filters modal selector is .events-listing-filter:visible; apply button is .apply-filters-btn (not role dialog or 'Apply filters' button name in all builds).\" (context: Events listing — filters modal)",
       "timestamp": "2026-06-03T02:18:35.083Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Correction saved: \"Registration type filter checkboxes are named exactly: Open, Moderated, Invite only. Use getByRole('checkbox', { name, exact: true }).\" (context: Events listing — filters modal registration type)",
+      "timestamp": "2026-06-03T02:18:37.770Z"
     }
   ],
-  "lastUpdated": "2026-06-03T02:18:35.083Z"
+  "lastUpdated": "2026-06-03T02:18:37.770Z"
 }
