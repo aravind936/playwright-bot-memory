@@ -111,7 +111,14 @@
       "module": "Events Listing",
       "addedBy": "automation-bot-session",
       "timestamp": "2026-06-03T02:19:01.613Z"
+    },
+    {
+      "id": "1780453144201",
+      "instruction": "Event editor Settings tab has registration type field labeled 'How would you like to manage registrations?' with options Open, Moderated, Invite-only.",
+      "module": "Events Editor",
+      "addedBy": "automation-bot-session",
+      "timestamp": "2026-06-03T02:19:04.201Z"
     }
   ],
-  "lastUpdated": "2026-06-03T02:19:01.613Z"
+  "lastUpdated": "2026-06-03T02:19:04.201Z"
 }
