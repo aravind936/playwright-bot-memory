@@ -118,7 +118,14 @@
       "module": "Events Editor",
       "addedBy": "automation-bot-session",
       "timestamp": "2026-06-03T02:19:04.201Z"
+    },
+    {
+      "id": "1780453146800",
+      "instruction": "TC_EV_003 flow: for each registration type filter, clear filters, check one type, apply, open first table event, verify type in editor, return to listing.",
+      "module": "Events Listing",
+      "addedBy": "automation-bot-session",
+      "timestamp": "2026-06-03T02:19:06.800Z"
     }
   ],
-  "lastUpdated": "2026-06-03T02:19:04.201Z"
+  "lastUpdated": "2026-06-03T02:19:06.800Z"
 }
