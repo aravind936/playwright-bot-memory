@@ -101,7 +101,12 @@
       "role": "assistant",
       "content": "Product knowledge saved: [Config] \"Test environment URL is https://dev-09.almabase-beta.com/sadmin. Login: admin3/admin3.\"",
       "timestamp": "2026-06-03T02:19:10.994Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Product knowledge saved: [Project] \"First 9 Events test cases live in tests/events/events-listing-first-9.spec.ts sourced from Excel sheet 'Events Re-modified'. Helpers in tests/helpers/events.ts.\"",
+      "timestamp": "2026-06-03T02:19:13.909Z"
     }
   ],
-  "lastUpdated": "2026-06-03T02:19:10.994Z"
+  "lastUpdated": "2026-06-03T02:19:13.909Z"
 }
