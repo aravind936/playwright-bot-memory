@@ -31,8 +31,16 @@
       "addedBy": "automation-bot-session",
       "timestamp": "2026-06-03T02:18:33.617Z",
       "upvotes": 1
+    },
+    {
+      "id": "1780453116326",
+      "correction": "Registration type filter checkboxes are named exactly: Open, Moderated, Invite only. Use getByRole('checkbox', { name, exact: true }).",
+      "context": "Events listing — filters modal registration type",
+      "addedBy": "automation-bot-session",
+      "timestamp": "2026-06-03T02:18:36.326Z",
+      "upvotes": 1
     }
   ],
   "productKnowledge": [],
-  "lastUpdated": "2026-06-03T02:18:33.617Z"
+  "lastUpdated": "2026-06-03T02:18:36.327Z"
 }
