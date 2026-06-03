@@ -7,8 +7,16 @@
       "addedBy": "automation-bot-session",
       "timestamp": "2026-06-03T02:18:25.389Z",
       "upvotes": 1
+    },
+    {
+      "id": "1780453108084",
+      "correction": "Events listing status filters (All, Accepting registrations, Draft, Completed, Archived) are buttons, not tabs. Use getByRole('button') scoped to .events-listing-table.",
+      "context": "Events listing — TC_EV_002 status filters",
+      "addedBy": "automation-bot-session",
+      "timestamp": "2026-06-03T02:18:28.084Z",
+      "upvotes": 1
     }
   ],
   "productKnowledge": [],
-  "lastUpdated": "2026-06-03T02:18:25.389Z"
+  "lastUpdated": "2026-06-03T02:18:28.084Z"
 }
