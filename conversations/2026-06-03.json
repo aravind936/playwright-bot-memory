@@ -91,7 +91,12 @@
       "role": "assistant",
       "content": "Product knowledge saved: [Events Editor] \"Event editor Settings tab has registration type field labeled 'How would you like to manage registrations?' with options Open, Moderated, Invite-only.\"",
       "timestamp": "2026-06-03T02:19:05.632Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Product knowledge saved: [Events Listing] \"TC_EV_003 flow: for each registration type filter, clear filters, check one type, apply, open first table event, verify type in editor, return to listing.\"",
+      "timestamp": "2026-06-03T02:19:08.265Z"
     }
   ],
-  "lastUpdated": "2026-06-03T02:19:05.632Z"
+  "lastUpdated": "2026-06-03T02:19:08.265Z"
 }
