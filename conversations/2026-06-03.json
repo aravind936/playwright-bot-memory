@@ -26,7 +26,12 @@
       "role": "assistant",
       "content": "Correction saved: \"Events listing status filters (All, Accepting registrations, Draft, Completed, Archived) are buttons, not tabs. Use getByRole('button') scoped to .events-listing-table.\" (context: Events listing — TC_EV_002 status filters)",
       "timestamp": "2026-06-03T02:18:29.659Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Correction saved: \"Scope all events table interactions to .events-listing-table to avoid strict mode violations from other page links.\" (context: Events listing — general selectors)",
+      "timestamp": "2026-06-03T02:18:32.314Z"
     }
   ],
-  "lastUpdated": "2026-06-03T02:18:29.660Z"
+  "lastUpdated": "2026-06-03T02:18:32.314Z"
 }
