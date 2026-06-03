@@ -71,7 +71,12 @@
       "role": "assistant",
       "content": "Correction saved: \"TC_EV_001: pick an event from the table that is NOT in the recently updated bar, edit its name, save, verify it appears in recents, then restore the original name.\" (context: Events listing — TC_EV_001 recently updated)",
       "timestamp": "2026-06-03T02:18:54.814Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Correction saved: \"GITHUB_REPO env var must be owner/repo without leading slash (e.g. aravind936/playwright-bot-memory) or GitHub API returns 404.\" (context: Shared memory — memory.ts GitHub config)",
+      "timestamp": "2026-06-03T02:18:57.673Z"
     }
   ],
-  "lastUpdated": "2026-06-03T02:18:54.814Z"
+  "lastUpdated": "2026-06-03T02:18:57.673Z"
 }
