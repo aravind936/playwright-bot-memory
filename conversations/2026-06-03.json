@@ -106,7 +106,12 @@
       "role": "assistant",
       "content": "Product knowledge saved: [Project] \"First 9 Events test cases live in tests/events/events-listing-first-9.spec.ts sourced from Excel sheet 'Events Re-modified'. Helpers in tests/helpers/events.ts.\"",
       "timestamp": "2026-06-03T02:19:13.909Z"
+    },
+    {
+      "role": "user",
+      "content": "can u run TC_EV_005 — archive an event",
+      "timestamp": "2026-06-03T02:37:44.060Z"
     }
   ],
-  "lastUpdated": "2026-06-03T02:19:13.909Z"
+  "lastUpdated": "2026-06-03T02:37:44.060Z"
 }
