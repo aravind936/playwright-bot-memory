@@ -71,8 +71,16 @@
       "addedBy": "automation-bot-session",
       "timestamp": "2026-06-03T02:18:47.972Z",
       "upvotes": 1
+    },
+    {
+      "id": "1780453130626",
+      "correction": "Filter label 'Invite only' maps to editor dropdown value 'Invite-only' (with hyphen).",
+      "context": "Events — registration type label mapping",
+      "addedBy": "automation-bot-session",
+      "timestamp": "2026-06-03T02:18:50.626Z",
+      "upvotes": 1
     }
   ],
   "productKnowledge": [],
-  "lastUpdated": "2026-06-03T02:18:47.973Z"
+  "lastUpdated": "2026-06-03T02:18:50.626Z"
 }
