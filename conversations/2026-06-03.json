@@ -86,7 +86,12 @@
       "role": "assistant",
       "content": "Product knowledge saved: [Events Listing] \"Registration type API filter uses type__in query param. Values: Open=1, Moderated=2, Invite only=3.\"",
       "timestamp": "2026-06-03T02:19:03.066Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Product knowledge saved: [Events Editor] \"Event editor Settings tab has registration type field labeled 'How would you like to manage registrations?' with options Open, Moderated, Invite-only.\"",
+      "timestamp": "2026-06-03T02:19:05.632Z"
     }
   ],
-  "lastUpdated": "2026-06-03T02:19:03.066Z"
+  "lastUpdated": "2026-06-03T02:19:05.632Z"
 }
