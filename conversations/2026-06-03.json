@@ -31,7 +31,12 @@
       "role": "assistant",
       "content": "Correction saved: \"Scope all events table interactions to .events-listing-table to avoid strict mode violations from other page links.\" (context: Events listing — general selectors)",
       "timestamp": "2026-06-03T02:18:32.314Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Correction saved: \"Filters modal selector is .events-listing-filter:visible; apply button is .apply-filters-btn (not role dialog or 'Apply filters' button name in all builds).\" (context: Events listing — filters modal)",
+      "timestamp": "2026-06-03T02:18:35.083Z"
     }
   ],
-  "lastUpdated": "2026-06-03T02:18:32.314Z"
+  "lastUpdated": "2026-06-03T02:18:35.083Z"
 }
