@@ -39,8 +39,16 @@
       "addedBy": "automation-bot-session",
       "timestamp": "2026-06-03T02:18:36.326Z",
       "upvotes": 1
+    },
+    {
+      "id": "1780453119440",
+      "correction": "Tags dropdown in filters modal: click .ant-select-selector inside the Tags form item, not getByLabel('Tags') — placeholder intercepts clicks.",
+      "context": "Events listing — filters modal tags",
+      "addedBy": "automation-bot-session",
+      "timestamp": "2026-06-03T02:18:39.440Z",
+      "upvotes": 1
     }
   ],
   "productKnowledge": [],
-  "lastUpdated": "2026-06-03T02:18:36.327Z"
+  "lastUpdated": "2026-06-03T02:18:39.440Z"
 }
