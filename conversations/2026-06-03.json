@@ -46,7 +46,12 @@
       "role": "assistant",
       "content": "Correction saved: \"Tags dropdown in filters modal: click .ant-select-selector inside the Tags form item, not getByLabel('Tags') — placeholder intercepts clicks.\" (context: Events listing — filters modal tags)",
       "timestamp": "2026-06-03T02:18:41.086Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Correction saved: \"Do not press Escape to close tag dropdown — it dismisses the entire filters modal. Click elsewhere in modal instead.\" (context: Events listing — filters modal tags)",
+      "timestamp": "2026-06-03T02:18:43.952Z"
     }
   ],
-  "lastUpdated": "2026-06-03T02:18:41.086Z"
+  "lastUpdated": "2026-06-03T02:18:43.952Z"
 }
