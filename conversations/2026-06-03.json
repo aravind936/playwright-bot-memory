@@ -6,7 +6,12 @@
       "role": "user",
       "content": "test message",
       "timestamp": "2026-06-03T02:09:50.137Z"
+    },
+    {
+      "role": "user",
+      "content": "save all the previous chat to memory",
+      "timestamp": "2026-06-03T02:18:22.774Z"
     }
   ],
-  "lastUpdated": "2026-06-03T02:09:50.137Z"
+  "lastUpdated": "2026-06-03T02:18:22.774Z"
 }
