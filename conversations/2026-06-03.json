@@ -76,7 +76,12 @@
       "role": "assistant",
       "content": "Correction saved: \"GITHUB_REPO env var must be owner/repo without leading slash (e.g. aravind936/playwright-bot-memory) or GitHub API returns 404.\" (context: Shared memory — memory.ts GitHub config)",
       "timestamp": "2026-06-03T02:18:57.673Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Product knowledge saved: [Events Listing] \"Events admin listing URL path: /admin/events. Table container class: .events-listing-table. Event links: a[href*='/admin/eventsx/'].\"",
+      "timestamp": "2026-06-03T02:19:00.345Z"
     }
   ],
-  "lastUpdated": "2026-06-03T02:18:57.673Z"
+  "lastUpdated": "2026-06-03T02:19:00.345Z"
 }
