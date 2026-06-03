@@ -1,5 +1,14 @@
 {
-  "corrections": [],
+  "corrections": [
+    {
+      "id": "1780453105389",
+      "correction": "Event name links in events listing open in a new tab (target=_blank). Use page.goto(href) instead of click.",
+      "context": "Events listing — openEventFromTable",
+      "addedBy": "automation-bot-session",
+      "timestamp": "2026-06-03T02:18:25.389Z",
+      "upvotes": 1
+    }
+  ],
   "productKnowledge": [],
-  "lastUpdated": ""
+  "lastUpdated": "2026-06-03T02:18:25.389Z"
 }
