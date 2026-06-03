@@ -55,8 +55,16 @@
       "addedBy": "automation-bot-session",
       "timestamp": "2026-06-03T02:18:42.424Z",
       "upvotes": 1
+    },
+    {
+      "id": "1780453125296",
+      "correction": "Row Actions menu: hover the Actions text in the row, then click the item in .events-listing-action-dropdown.",
+      "context": "Events listing — archive/unarchive/duplicate/delete",
+      "addedBy": "automation-bot-session",
+      "timestamp": "2026-06-03T02:18:45.296Z",
+      "upvotes": 1
     }
   ],
   "productKnowledge": [],
-  "lastUpdated": "2026-06-03T02:18:42.424Z"
+  "lastUpdated": "2026-06-03T02:18:45.297Z"
 }
