@@ -56,7 +56,12 @@
       "role": "assistant",
       "content": "Correction saved: \"Row Actions menu: hover the Actions text in the row, then click the item in .events-listing-action-dropdown.\" (context: Events listing — archive/unarchive/duplicate/delete)",
       "timestamp": "2026-06-03T02:18:46.800Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Correction saved: \"To verify registration type in event editor: use getByRole('combobox', { name: 'How would you like to manage registrations?' }) and assert .ant-select-selection-item text. Do NOT use #event-admin-form-container or .ant-form-item hasText.\" (context: Events editor — TC_EV_003 registration type verification)",
+      "timestamp": "2026-06-03T02:18:49.379Z"
     }
   ],
-  "lastUpdated": "2026-06-03T02:18:46.800Z"
+  "lastUpdated": "2026-06-03T02:18:49.380Z"
 }
