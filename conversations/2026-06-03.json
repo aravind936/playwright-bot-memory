@@ -66,7 +66,12 @@
       "role": "assistant",
       "content": "Correction saved: \"Filter label 'Invite only' maps to editor dropdown value 'Invite-only' (with hyphen).\" (context: Events — registration type label mapping)",
       "timestamp": "2026-06-03T02:18:52.162Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Correction saved: \"TC_EV_001: pick an event from the table that is NOT in the recently updated bar, edit its name, save, verify it appears in recents, then restore the original name.\" (context: Events listing — TC_EV_001 recently updated)",
+      "timestamp": "2026-06-03T02:18:54.814Z"
     }
   ],
-  "lastUpdated": "2026-06-03T02:18:52.162Z"
+  "lastUpdated": "2026-06-03T02:18:54.814Z"
 }
