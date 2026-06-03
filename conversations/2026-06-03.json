@@ -61,7 +61,12 @@
       "role": "assistant",
       "content": "Correction saved: \"To verify registration type in event editor: use getByRole('combobox', { name: 'How would you like to manage registrations?' }) and assert .ant-select-selection-item text. Do NOT use #event-admin-form-container or .ant-form-item hasText.\" (context: Events editor — TC_EV_003 registration type verification)",
       "timestamp": "2026-06-03T02:18:49.379Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Correction saved: \"Filter label 'Invite only' maps to editor dropdown value 'Invite-only' (with hyphen).\" (context: Events — registration type label mapping)",
+      "timestamp": "2026-06-03T02:18:52.162Z"
     }
   ],
-  "lastUpdated": "2026-06-03T02:18:49.380Z"
+  "lastUpdated": "2026-06-03T02:18:52.162Z"
 }
