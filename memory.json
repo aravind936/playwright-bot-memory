@@ -63,8 +63,16 @@
       "addedBy": "automation-bot-session",
       "timestamp": "2026-06-03T02:18:45.296Z",
       "upvotes": 1
+    },
+    {
+      "id": "1780453127972",
+      "correction": "To verify registration type in event editor: use getByRole('combobox', { name: 'How would you like to manage registrations?' }) and assert .ant-select-selection-item text. Do NOT use #event-admin-form-container or .ant-form-item hasText.",
+      "context": "Events editor — TC_EV_003 registration type verification",
+      "addedBy": "automation-bot-session",
+      "timestamp": "2026-06-03T02:18:47.972Z",
+      "upvotes": 1
     }
   ],
   "productKnowledge": [],
-  "lastUpdated": "2026-06-03T02:18:45.297Z"
+  "lastUpdated": "2026-06-03T02:18:47.973Z"
 }
