@@ -97,6 +97,14 @@
       "upvotes": 1
     }
   ],
-  "productKnowledge": [],
-  "lastUpdated": "2026-06-03T02:18:56.034Z"
+  "productKnowledge": [
+    {
+      "id": "1780453138834",
+      "instruction": "Events admin listing URL path: /admin/events. Table container class: .events-listing-table. Event links: a[href*='/admin/eventsx/'].",
+      "module": "Events Listing",
+      "addedBy": "automation-bot-session",
+      "timestamp": "2026-06-03T02:18:58.834Z"
+    }
+  ],
+  "lastUpdated": "2026-06-03T02:18:58.834Z"
 }
