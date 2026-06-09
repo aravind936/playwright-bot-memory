@@ -16,7 +16,12 @@
       "role": "assistant",
       "content": "Correction saved: \"Site Settings search: fill query then press Enter — Ant Design Search onSearch only fires on Enter/search icon, not on fill().\" (context: Site Settings — searchSiteSettings)",
       "timestamp": "2026-06-09T06:45:19.853Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Correction saved: \"Enable new signup page toggle: use #custom_features__enable_new_signup__enabled and assert ant-switch-checked class; Ant Design 3 switches do not set aria-checked reliably.\" (context: Site Settings — TC_SB_001 toggle)",
+      "timestamp": "2026-06-09T06:45:22.798Z"
     }
   ],
-  "lastUpdated": "2026-06-09T06:45:19.853Z"
+  "lastUpdated": "2026-06-09T06:45:22.798Z"
 }
