@@ -7,8 +7,16 @@
       "addedBy": "automation-bot-session",
       "timestamp": "2026-06-09T07:01:28.219Z",
       "upvotes": 1
+    },
+    {
+      "id": "1780988491335",
+      "correction": "Data Studio dynamic filters (City 'is any of'): options are menuitem role, not .ant-select-item-option.",
+      "context": "Data Studio — applyIsAnyOfFilter",
+      "addedBy": "automation-bot-session",
+      "timestamp": "2026-06-09T07:01:31.335Z",
+      "upvotes": 1
     }
   ],
   "productKnowledge": [],
-  "lastUpdated": "2026-06-09T07:01:28.219Z"
+  "lastUpdated": "2026-06-09T07:01:31.335Z"
 }
