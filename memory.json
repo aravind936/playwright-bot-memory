@@ -111,6 +111,14 @@
       "addedBy": "automation-bot-session",
       "timestamp": "2026-06-09T06:45:21.161Z",
       "upvotes": 1
+    },
+    {
+      "id": "1780987524094",
+      "correction": "Site Settings Save button: scope to .ant-tabs-tabpane-active #site-settings-buttons — each tab duplicates id site-settings-buttons.",
+      "context": "Site Settings — saveSiteSettings",
+      "addedBy": "automation-bot-session",
+      "timestamp": "2026-06-09T06:45:24.094Z",
+      "upvotes": 1
     }
   ],
   "productKnowledge": [
@@ -157,5 +165,5 @@
       "timestamp": "2026-06-03T02:19:12.529Z"
     }
   ],
-  "lastUpdated": "2026-06-09T06:45:21.161Z"
+  "lastUpdated": "2026-06-09T06:45:24.094Z"
 }
