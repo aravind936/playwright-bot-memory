@@ -36,7 +36,12 @@
       "role": "assistant",
       "content": "Correction saved: \"Data Studio search does not add search_text= to URL; verify search input value and first result name instead.\" (context: Data Studio — TC_DS_09)",
       "timestamp": "2026-06-09T06:45:31.525Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Correction saved: \"Data Studio pagination: use .ant-pagination-item-2; use findSearchQueryForPagination() with broad search terms.\" (context: Data Studio — TC_DS_10)",
+      "timestamp": "2026-06-09T06:45:34.248Z"
     }
   ],
-  "lastUpdated": "2026-06-09T06:45:31.525Z"
+  "lastUpdated": "2026-06-09T06:45:34.248Z"
 }
