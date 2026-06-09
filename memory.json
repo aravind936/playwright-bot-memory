@@ -103,6 +103,14 @@
       "addedBy": "automation-bot-session",
       "timestamp": "2026-06-09T06:45:18.177Z",
       "upvotes": 1
+    },
+    {
+      "id": "1780987521161",
+      "correction": "Enable new signup page toggle: use #custom_features__enable_new_signup__enabled and assert ant-switch-checked class; Ant Design 3 switches do not set aria-checked reliably.",
+      "context": "Site Settings — TC_SB_001 toggle",
+      "addedBy": "automation-bot-session",
+      "timestamp": "2026-06-09T06:45:21.161Z",
+      "upvotes": 1
     }
   ],
   "productKnowledge": [
@@ -149,5 +157,5 @@
       "timestamp": "2026-06-03T02:19:12.529Z"
     }
   ],
-  "lastUpdated": "2026-06-09T06:45:18.177Z"
+  "lastUpdated": "2026-06-09T06:45:21.161Z"
 }
