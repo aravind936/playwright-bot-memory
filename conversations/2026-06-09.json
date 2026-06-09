@@ -46,7 +46,12 @@
       "role": "assistant",
       "content": "Correction saved: \"Data Studio Yes/No filters (e.g. Is Deceased): select 'is' radio then use Ant combobox for Yes/No, not clickable text.\" (context: Data Studio — applyYesNoFilter)",
       "timestamp": "2026-06-09T07:01:29.970Z"
+    },
+    {
+      "role": "user",
+      "content": "save all the chat above till top as knowledge in git",
+      "timestamp": "2026-06-09T07:03:06.869Z"
     }
   ],
-  "lastUpdated": "2026-06-09T07:01:29.970Z"
+  "lastUpdated": "2026-06-09T07:03:06.869Z"
 }
