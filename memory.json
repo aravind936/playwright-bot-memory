@@ -127,6 +127,14 @@
       "addedBy": "automation-bot-session",
       "timestamp": "2026-06-09T06:45:27.128Z",
       "upvotes": 1
+    },
+    {
+      "id": "1780987529946",
+      "correction": "Data Studio search does not add search_text= to URL; verify search input value and first result name instead.",
+      "context": "Data Studio — TC_DS_09",
+      "addedBy": "automation-bot-session",
+      "timestamp": "2026-06-09T06:45:29.946Z",
+      "upvotes": 1
     }
   ],
   "productKnowledge": [
@@ -173,5 +181,5 @@
       "timestamp": "2026-06-03T02:19:12.529Z"
     }
   ],
-  "lastUpdated": "2026-06-09T06:45:27.128Z"
+  "lastUpdated": "2026-06-09T06:45:29.946Z"
 }
