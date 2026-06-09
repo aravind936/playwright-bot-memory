@@ -26,7 +26,12 @@
       "role": "assistant",
       "content": "Correction saved: \"Site Settings Save button: scope to .ant-tabs-tabpane-active #site-settings-buttons — each tab duplicates id site-settings-buttons.\" (context: Site Settings — saveSiteSettings)",
       "timestamp": "2026-06-09T06:45:25.609Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Correction saved: \"Custom Features tab may have NaN in jobs deadline spinbutton blocking Save — fix to 28 before save via getByRole('spinbutton', { name: /Auto hide jobs/i }).\" (context: Site Settings — fixCustomFeaturesValidationErrors)",
+      "timestamp": "2026-06-09T06:45:28.741Z"
     }
   ],
-  "lastUpdated": "2026-06-09T06:45:25.609Z"
+  "lastUpdated": "2026-06-09T06:45:28.741Z"
 }
