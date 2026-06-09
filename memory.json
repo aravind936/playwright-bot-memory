@@ -119,6 +119,14 @@
       "addedBy": "automation-bot-session",
       "timestamp": "2026-06-09T06:45:24.094Z",
       "upvotes": 1
+    },
+    {
+      "id": "1780987527128",
+      "correction": "Custom Features tab may have NaN in jobs deadline spinbutton blocking Save — fix to 28 before save via getByRole('spinbutton', { name: /Auto hide jobs/i }).",
+      "context": "Site Settings — fixCustomFeaturesValidationErrors",
+      "addedBy": "automation-bot-session",
+      "timestamp": "2026-06-09T06:45:27.128Z",
+      "upvotes": 1
     }
   ],
   "productKnowledge": [
@@ -165,5 +173,5 @@
       "timestamp": "2026-06-03T02:19:12.529Z"
     }
   ],
-  "lastUpdated": "2026-06-09T06:45:24.094Z"
+  "lastUpdated": "2026-06-09T06:45:27.128Z"
 }
