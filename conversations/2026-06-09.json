@@ -41,7 +41,12 @@
       "role": "assistant",
       "content": "Correction saved: \"Data Studio pagination: use .ant-pagination-item-2; use findSearchQueryForPagination() with broad search terms.\" (context: Data Studio — TC_DS_10)",
       "timestamp": "2026-06-09T06:45:34.248Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Correction saved: \"Data Studio Yes/No filters (e.g. Is Deceased): select 'is' radio then use Ant combobox for Yes/No, not clickable text.\" (context: Data Studio — applyYesNoFilter)",
+      "timestamp": "2026-06-09T07:01:29.970Z"
     }
   ],
-  "lastUpdated": "2026-06-09T06:45:34.248Z"
+  "lastUpdated": "2026-06-09T07:01:29.970Z"
 }
