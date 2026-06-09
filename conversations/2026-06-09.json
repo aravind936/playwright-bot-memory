@@ -31,7 +31,12 @@
       "role": "assistant",
       "content": "Correction saved: \"Custom Features tab may have NaN in jobs deadline spinbutton blocking Save — fix to 28 before save via getByRole('spinbutton', { name: /Auto hide jobs/i }).\" (context: Site Settings — fixCustomFeaturesValidationErrors)",
       "timestamp": "2026-06-09T06:45:28.741Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Correction saved: \"Data Studio search does not add search_text= to URL; verify search input value and first result name instead.\" (context: Data Studio — TC_DS_09)",
+      "timestamp": "2026-06-09T06:45:31.525Z"
     }
   ],
-  "lastUpdated": "2026-06-09T06:45:28.741Z"
+  "lastUpdated": "2026-06-09T06:45:31.525Z"
 }
