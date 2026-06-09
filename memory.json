@@ -95,6 +95,14 @@
       "addedBy": "automation-bot-session",
       "timestamp": "2026-06-03T02:18:56.034Z",
       "upvotes": 1
+    },
+    {
+      "id": "1780987518177",
+      "correction": "Site Settings search: fill query then press Enter — Ant Design Search onSearch only fires on Enter/search icon, not on fill().",
+      "context": "Site Settings — searchSiteSettings",
+      "addedBy": "automation-bot-session",
+      "timestamp": "2026-06-09T06:45:18.177Z",
+      "upvotes": 1
     }
   ],
   "productKnowledge": [
@@ -141,5 +149,5 @@
       "timestamp": "2026-06-03T02:19:12.529Z"
     }
   ],
-  "lastUpdated": "2026-06-03T02:19:12.529Z"
+  "lastUpdated": "2026-06-09T06:45:18.177Z"
 }
