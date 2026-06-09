@@ -6,7 +6,7 @@
       "context": "Data Studio — applyYesNoFilter",
       "addedBy": "automation-bot-session",
       "timestamp": "2026-06-09T07:01:28.219Z",
-      "upvotes": 1
+      "upvotes": 2
     },
     {
       "id": "1780988491335",
@@ -14,9 +14,153 @@
       "context": "Data Studio — applyIsAnyOfFilter",
       "addedBy": "automation-bot-session",
       "timestamp": "2026-06-09T07:01:31.335Z",
+      "upvotes": 2
+    },
+    {
+      "id": "1780988589550-2",
+      "correction": "Site Settings search: fill query then press Enter — Ant Design Search onSearch only fires on Enter/search icon, not on fill().",
+      "context": "Site Settings — searchSiteSettings",
+      "addedBy": "automation-bot-session",
+      "timestamp": "2026-06-09T07:03:09.550Z",
+      "upvotes": 1
+    },
+    {
+      "id": "1780988589550-3",
+      "correction": "Enable new signup page toggle: use #custom_features__enable_new_signup__enabled and assert ant-switch-checked class; Ant Design 3 switches do not set aria-checked reliably.",
+      "context": "Site Settings — TC_SB_001 toggle",
+      "addedBy": "automation-bot-session",
+      "timestamp": "2026-06-09T07:03:09.550Z",
+      "upvotes": 1
+    },
+    {
+      "id": "1780988589550-4",
+      "correction": "Site Settings Save button: scope to .ant-tabs-tabpane-active #site-settings-buttons — each tab duplicates id site-settings-buttons.",
+      "context": "Site Settings — saveSiteSettings",
+      "addedBy": "automation-bot-session",
+      "timestamp": "2026-06-09T07:03:09.550Z",
+      "upvotes": 1
+    },
+    {
+      "id": "1780988589550-5",
+      "correction": "Custom Features tab may have NaN in jobs deadline spinbutton blocking Save — fix to 28 before save via getByRole('spinbutton', { name: /Auto hide jobs/i }).",
+      "context": "Site Settings — fixCustomFeaturesValidationErrors",
+      "addedBy": "automation-bot-session",
+      "timestamp": "2026-06-09T07:03:09.550Z",
+      "upvotes": 1
+    },
+    {
+      "id": "1780988589550-6",
+      "correction": "Data Studio search does not add search_text= to URL; verify search input value and first result name instead.",
+      "context": "Data Studio — TC_DS_09",
+      "addedBy": "automation-bot-session",
+      "timestamp": "2026-06-09T07:03:09.550Z",
+      "upvotes": 1
+    },
+    {
+      "id": "1780988589550-7",
+      "correction": "Data Studio pagination: use .ant-pagination-item-2; use findSearchQueryForPagination() with broad search terms.",
+      "context": "Data Studio — TC_DS_10",
+      "addedBy": "automation-bot-session",
+      "timestamp": "2026-06-09T07:03:09.550Z",
+      "upvotes": 1
+    },
+    {
+      "id": "1780988589550-8",
+      "correction": "Data Studio SAVE FILTERS button only visible after filter/column changeState — apply a filter first.",
+      "context": "Data Studio — saved filters TC_DS_21+",
+      "addedBy": "automation-bot-session",
+      "timestamp": "2026-06-09T07:03:09.550Z",
+      "upvotes": 1
+    },
+    {
+      "id": "1780988589550-9",
+      "correction": "Data Studio saved filter rename/delete: hover .view-item row, then hover .handlebar-icon three-dot; menu hidden until hover. Use non-selected filter via getRenamableSavedFilterName().",
+      "context": "Data Studio — TC_DS_25/26",
+      "addedBy": "automation-bot-session",
+      "timestamp": "2026-06-09T07:03:09.550Z",
+      "upvotes": 1
+    },
+    {
+      "id": "1780988589550-10",
+      "correction": "Data Studio saved filter list: .views-list-container .view-item, not .view-container.",
+      "context": "Data Studio — saved views",
+      "addedBy": "automation-bot-session",
+      "timestamp": "2026-06-09T07:03:09.550Z",
+      "upvotes": 1
+    },
+    {
+      "id": "1780988589550-11",
+      "correction": "Giving fillCampaignDates: scope Ant date picker to correct container to avoid strict mode / wrong picker clicks.",
+      "context": "Giving — campaign dates",
+      "addedBy": "automation-bot-session",
+      "timestamp": "2026-06-09T07:03:09.550Z",
       "upvotes": 1
     }
   ],
-  "productKnowledge": [],
-  "lastUpdated": "2026-06-09T07:01:31.335Z"
+  "productKnowledge": [
+    {
+      "id": "1780988589550-0",
+      "instruction": "URL /admin/site-settings; search box placeholder 'Search here ?'; results in #search-tab-results; field keys use double underscores (custom_features__enable_new_signup__enabled).",
+      "module": "Site Settings",
+      "addedBy": "automation-bot-session",
+      "timestamp": "2026-06-09T07:03:09.550Z"
+    },
+    {
+      "id": "1780988589550-1",
+      "instruction": "Enable new signup page toggle is super-admin only; backend key custom_features.enable_new_signup.enabled; affects member signup routing to new builder flow.",
+      "module": "Site Settings",
+      "addedBy": "automation-bot-session",
+      "timestamp": "2026-06-09T07:03:09.550Z"
+    },
+    {
+      "id": "1780988589550-2",
+      "instruction": "TC_SB_001 flow: openSiteSettings → searchSiteSettings('Enable new signup page') → enableNewSignupToggleIfOff → saveSiteSettings if changed → assert ant-switch-checked.",
+      "module": "Sign-up Flow Builder",
+      "addedBy": "automation-bot-session",
+      "timestamp": "2026-06-09T07:03:09.550Z"
+    },
+    {
+      "id": "1780988589550-3",
+      "instruction": "Builder admin URL /admin/signup-builder/; protected steps Basic Information and Preferences; Publish changes button; network waits on signup steps/structure APIs.",
+      "module": "Sign-up Flow Builder",
+      "addedBy": "automation-bot-session",
+      "timestamp": "2026-06-09T07:03:09.550Z"
+    },
+    {
+      "id": "1780988589550-4",
+      "instruction": "Spec: tests/data-studio/data-studio-all.spec.ts; helpers: tests/helpers/data-studio.ts; npm run test:data-studio-all; 59 cases TC_DS_01–59.",
+      "module": "Data Studio",
+      "addedBy": "automation-bot-session",
+      "timestamp": "2026-06-09T07:03:09.550Z"
+    },
+    {
+      "id": "1780988589550-5",
+      "instruction": "Spec: tests/giving/giving-first-70.spec.ts; helpers: tests/helpers/giving.ts; npm run test:giving-first70; cases TC_GV_001–070 from Giving sheet.",
+      "module": "Giving",
+      "addedBy": "automation-bot-session",
+      "timestamp": "2026-06-09T07:03:09.550Z"
+    },
+    {
+      "id": "1780988589550-6",
+      "instruction": "Spec: tests/signup-builder/signup-builder-all.spec.ts; helpers: tests/helpers/signup-builder.ts; npm run test:signup-builder-all; cases TC_SB_001–125 from New Sign-up flow builder sheet.",
+      "module": "Sign-up Flow Builder",
+      "addedBy": "automation-bot-session",
+      "timestamp": "2026-06-09T07:03:09.550Z"
+    },
+    {
+      "id": "1780988589550-7",
+      "instruction": "dev-09 base URL https://dev-09.almabase-beta.com; sadmin login path /sadmin; config.json login email/password used by loginAsUser.",
+      "module": "Config",
+      "addedBy": "automation-bot-session",
+      "timestamp": "2026-06-09T07:03:09.550Z"
+    },
+    {
+      "id": "1780988589550-8",
+      "instruction": "Excel source: test-cases/RegressionTest Cases - All Modules.xlsx; serial describe blocks with shared ctx; individual test: npm run test:<script> -- -g 'TC_XXX'.",
+      "module": "Project",
+      "addedBy": "automation-bot-session",
+      "timestamp": "2026-06-09T07:03:09.550Z"
+    }
+  ],
+  "lastUpdated": "2026-06-09T07:03:09.550Z"
 }
